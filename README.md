@@ -26,7 +26,7 @@ This repository is meant to primarily explore the various aspects of Antenna des
 
 ## Ancillaries to the Objectives
 
-1. Builing various types of antennas (Dipole, Yagi-Uda, Turnstile, etc.,) to suit the above stated objectives.
+1. Building various types of antennas (Dipole, Yagi-Uda, Turnstile, etc.,) to suit the above stated objectives.
 2. Improvisation of built antennas through modifications such as adding chokes, LNAs, etc., as per requirement.
 3. Exploring the use of SDR#, a software application used to interface the RTL-SDR with a computer.
 4. Adopting the use of coaxial cables and connectors.
