@@ -31,3 +31,11 @@ This repository is meant to primarily explore the various aspects of Antenna des
 3. Exploring the use of SDR#, a software application used to interface the RTL-SDR with a computer.
 4. Adopting the use of coaxial cables and connectors.
 
+## Project Media
+
+Branches and supporting documents
+
+1. For info regarding <b><i>setting up SDR#</b></i>, head to <b>SDR#-setup</b>.
+2. For info regarding <b><i>FM reception</b></i>, head to <b>FM-Antenna</b>.
+
+<i>Further experiments to be included tentatively.</i>
