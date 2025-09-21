@@ -35,7 +35,7 @@ This repository is meant to primarily explore the various aspects of Antenna des
 
 Branches and supporting documents
 
-1. For info regarding <b><i>setting up SDR#</b></i>, head to <b>SDR#-setup</b>.
+1. For info regarding <b><i>setting up SDR#</b></i>, see [docs/SDR-Setup.md](docs/SDR#-Setup.md)
 2. For info regarding <b><i>FM reception</b></i>, head to <b>FM-Antenna</b>.
 
 <i>Further experiments to be included tentatively.</i>
