@@ -1,7 +1,7 @@
 # SDR# Setup Guide
 
 This document explains how I set up my **RTL-SDR V4 dongle** and received my first FM signals.
-
+Detailed Steps are available as a pdf in the main repo, with images
 ---
 
 ## Hardware
@@ -39,7 +39,7 @@ This document explains how I set up my **RTL-SDR V4 dongle** and received my fir
 - Try **ADS-B (1090 MHz)** with a dedicated antenna.  
 - Explore ham radio CW signals (with upconverter for HF).
 
-## 📚 References
+## References
 - [RTL-SDR Blog](https://www.rtl-sdr.com/)  
 - [SDRSharp Software](https://airspy.com/download/)  
 - [Dipole Antenna Length Calculator](https://www.everythingrf.com/rf-calculators/dipole-antenna-length-calculator)  
