@@ -3,7 +3,7 @@
 This document explains how I set up my **RTL-SDR V4 dongle** and received my first FM signals.
 
 ---
-Detailed Steps are available in [doc_SDR-Setup.md](doc_SDR-Setup.md), with images
+Detailed Steps are available in [doc_SDR_setup.md](doc_SDR_setup.md), with images
 ## Hardware
 - RTL-SDR Blog V4 dongle  
 - Laptop (Windows 10/11)  
